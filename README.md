@@ -9,7 +9,7 @@ Originally built for my own notes, but hey, maybe you'll find a use for it too.
 ## So, what's inside?
 
 - **MeteoL.ttf** – The font. Download - double-click - install - done.
-- **MeteoL-character map.ods** – A handy cheat sheet showing character assignments, what each symbol looks like, and how to combine them.  
+- **MeteoL-character_map** – A handy cheat sheet showing character assignments, what each symbol looks like, and how to combine them. 
 - **MeteoL.svg** – The raw Inkscape source. Edit this if you want to add or change symbols.  
 - **MeteoL.sfd** & **MeteoL.g2n** – FontForge stuff.
 
