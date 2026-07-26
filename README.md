@@ -13,6 +13,8 @@ Originally built for my own notes, but hey, maybe you'll find a use for it too.
 - **MeteoL.svg** – The raw Inkscape source. Edit this if you want to add or change symbols.  
 - **MeteoL.sfd** & **MeteoL.g2n** – FontForge stuff.
 
+⚠️ - The character mapping is adapted to the Slovak keyboard and language. Characters such as č,ť,ž,ý are used. You need to install the Slovak (QWERTY) layout.
+
 ## How to install
 
 1. Double-click `MeteoL.ttf`.
