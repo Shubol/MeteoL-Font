@@ -1,6 +1,6 @@
 # MeteoL – weather symbols, now in font form.
 
-## Most commonly used mereological symbols packed into an easy-to-use TrueType font
+## Most commonly used meteorological symbols packed into an easy-to-use TrueType font
 
 I have no idea how others insert symbols into their documents, but this seems to be the easiest method. I couldn't find any weather font with official WMO symbols, so I created this one.
 Most of the commonly used meteorological symbols – rain, wind, thunderstorms, the usual suspects – all packed into one handy TrueType font.  
@@ -9,7 +9,7 @@ Originally built for my own notes, but hey, maybe you'll find a use for it too.
 ## So, what's inside?
 
 - **MeteoL.ttf** – The font. Download - double-click - install - done.
-- **MeteoL-character map.ods** – A handy cheat sheet showing what each symbol looks like and how to combine them.  
+- **MeteoL-character map.ods** – A handy cheat sheet showing character assignments, what each symbol looks like, and how to combine them.  
 - **MeteoL.svg** – The raw Inkscape source. Edit this if you want to add or change symbols.  
 - **MeteoL.sfd** & **MeteoL.g2n** – FontForge stuff.
 
@@ -20,7 +20,8 @@ Originally built for my own notes, but hey, maybe you'll find a use for it too.
 3. Done. That's it.
 
 ## How to edit or add symbols
-
+<ins> **First of all:**
+Please **do not change the character assignment** under any circumstances. This would make a real mess for users in their documents. If you need to, create a completely different, independent version, like "MeteoL-EN" or something.</ins>
 1. **Fork** this repository on GitHub (so you don't accidentally break my stuff).
 2. Download everything from the `/src` directory.
 3. Open `MeteoL.svg` in Inkscape.
