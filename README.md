@@ -50,11 +50,7 @@ Please **do not change the character assignment** under any circumstances. This 
 ---
 
 ## Known issues:
-- **Small and inconsistent character size** – Symbols are small, and some of them are not perfectly aligned in size.  Not a big deal, but it may affect visual consistency. The solution is to tweak the size for each character individually.
-
-- **All characters are placed too high** – The baseline is currently set above the standard typographic baseline. So, it's actually useless in Writer, but usable in Calc by aligning the characters to the bottom of the cell.
-
-I'll fix it by the end of the first week of August if the stars are aligned.
+- None right now. Feel free to add an issue.
 
 ---
 
