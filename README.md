@@ -50,7 +50,7 @@ Please **do not change the character assignment** under any circumstances. This 
 ---
 
 ## Known issues:
-- None right now. Feel free to add an issue.
+- None right now. Feel free to submit a new issue.
 
 ---
 
